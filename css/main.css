@@ -1,0 +1,13 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer utilities {
+    @variants group-hover, group-focus {
+        .text-gradient {
+            @apply bg-gradient-to-tr from-primary-200 to-primary-700 text-transparent bg-clip-text;
+        }
+    }
+}
