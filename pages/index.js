@@ -37,7 +37,7 @@ export default function Home() {
         </h1>
 
         <p className="mt-3 text-2xl">
-          PHP, Laravel, Java, Spring, JavaScript, React, Vue
+          Writing Typescript and Go; powered by mint imperials.
         </p>
 
         <div className="flex flex-wrap items-center mt-6">
