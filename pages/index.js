@@ -32,7 +32,7 @@ export default function Home() {
 
       <main className="flex flex-col items-center md:justify-center w-full flex-1 px-10 text-center tracking-tighter">
         <h1 className="text-5xl md:text-6xl font-bold">
-          Joe Reed,{" "}
+          Joe Erasmus-Reed,{" "}
           <span className="text-gradient inline-block">software developer</span>
         </h1>
 
