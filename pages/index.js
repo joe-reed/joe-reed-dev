@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen pt-20 md:py-10 font-mono bg-seashell text-gray-900">
       <Head>
-        <title>Joe Reed, software developer</title>
+        <title>Joe Erasmus-Reed, software developer</title>
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap"
