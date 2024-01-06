@@ -1,4 +1,4 @@
-# Joe Reed personal website
+# Joe Erasmus-Reed personal website
 [https://joereed.dev](https://joereed.dev)
 
 Built using [Next.js](https://nextjs.org/) and deployed using [Netlify](https://nextjs.org/docs/getting-started).
